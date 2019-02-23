@@ -1,5 +1,8 @@
 # docker-assistant-relay
 
+[UNDER TESTING - This package no yet ready]
+
+
 First time setup:
 
 Follow the instructions to setup Assistant Relay [here](https://github.com/greghesp/assistant-relay) until you get to the section for running the relay. Then run:
